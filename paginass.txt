@@ -1,0 +1,8 @@
+para capturar el name del formulario html
+https://www.w3schools.com/jquery/sel_attribute_contains_value.asp
+https://www.electrictoolbox.com/jquery-form-elements-by-name/
+https://api.jquery.com/attribute-contains-selector/
+para ocultar campos
+https://www.w3schools.com/jquery/jquery_selectors.asp
+para cambiar el atributo de elementos
+https://www.w3schools.com/jquery/html_attr.asp
