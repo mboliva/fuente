@@ -6,3 +6,5 @@ para ocultar campos
 https://www.w3schools.com/jquery/jquery_selectors.asp
 para cambiar el atributo de elementos
 https://www.w3schools.com/jquery/html_attr.asp
+set atribute y get en js - revisar
+https://emiliocobos.net/getattribute-y-setattribute-en-javascript/
