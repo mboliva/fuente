@@ -12,3 +12,6 @@ https://emiliocobos.net/getattribute-y-setattribute-en-javascript/
 
 lector scaner
 https://github.com/rohrlaf/SlaRle.js/blob/master/img/DemoScreen.jpg
+
+tutorial jquery de varios casos resueltos
+https://www.fourfront.us/blog/store-html-table-data-to-javascript-array
